@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FilosofíaXIngles</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/Logo.jpg" type="image/x-icon">
+</head>
+<body>
+   
+<header>
+   <img class="logo-circular" src="IMG/logo3.png" alt="Buggati" title="Buggati">
+
+
+    <h1>FilosofíaxIngles</h1>
+    <nav>  
+        <ul> 
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="Reportajes.html">Reportaje</a></li>
+            <li><a href="Noticias.html">Noticias</a></li>
+            <li><a href="Entrevistas.html">Entrevistas</a></li>
+            <li class="dropdown">  
+                <a href="javascript:void(0)" class="dropbtn">Filosofía</a>
+                <div class="dropdown-content">
+                    <a href="Karl.html">Karl Marx</a>
+                    <a href="Sócrates.html">Sócrates</a>
+                    <a href="Immanuel.html">Immanuel Kant</a>
+                    <a href="Friedrich.html">Friedrich Nietzsche</a>
+                </div>
+            </li>
+            <li class="dropdown">  
+                <a href="javascript:void(0)" class="dropbtn">English</a>
+                <div class="dropdown-content">
+                    <a href="MLKJR.html">Martin Luther King Jr</a>
+                    <a href="Platón.html">Platón</a>
+                    <a href="Mary.html">Mary Wollstonecraft</a>
+                    <a href="Cesare.html">Cesare Beccaria</a>
+                </div>
+            </li>
+            <li><a href="Reseñas.html">Reseñas</a></li>
+            <li><a href="Opiniones.html">Opiniones</a></li>
+        </ul>
+    </nav>
+</header>
+
+<!-- Sección de la reseña -->
+<section id="MRDL">
+    <h2>Reseña del Libro: El Club de las 5 de la Mañana – Robin Sharma </h2>
+    <p>
+        Este libro escrito por Robin Sharma nos propone una filosofía práctica de vida basada en levantarse todos los días a las 5:00 a.m. 
+        para aprovechar las primeras horas con la fórmula 20/20/20: ejercicio, reflexión y aprendizaje. A través de una fábula motivacional, 
+        el autor muestra cómo este hábito impulsa la disciplina, la creatividad y el crecimiento personal para demostrar todo tu potencial. 
+    </p>
+    <p>
+        Aunque debo de admitir que el texto no es como los textos de varios filósofos, se conecta con la filosofía contemporánea, especialmente con corrientes como el estoicismo moderno y el "mindfulness", 
+        al invitar a cultivar la autodisciplina, el autocontrol y la búsqueda de sentido en la vida cotidiana. Así Sharma plantea que el éxito no depende solo del trabajo, 
+        sino de cuidar cuerpo, mente y espíritu en equilibrio espiritual e mental. 
+    </p>
+    <p>
+        <strong>En conclusión;</strong> Para mí este texto es inspirador y accesible, transmitiendo una filosofía práctica adaptada a la vida actual. 
+        Es ideal para quienes buscan transformar hábitos y vivir con propósito, aunque puede resultar repetitivo en algunos pasajes, pero es un precio que se podría pagar.
+
+    </p>
+    <h4>-Mario de León-</h4>
+</section>
+
+<section id="JAQ">
+    <h2>Opinión personal</h2>
+    <p>
+        La visión de Bugatti es ser la marca más representativa del lujo, la velocidad y la innovación,
+        ofreciendo autos que no solo rompen récords, sino que también son símbolo de estatus y exclusividad.
+    </p>
+    <h4>-Javier Andrés Quiñónez-</h4>
+</section>
+
+<footer>
+    <p>Integrantes/Members:<br>Mario De León y Andrés Quiñónez<br> &copy;2025</p>
+</footer>
+
+</body>
+</html>
